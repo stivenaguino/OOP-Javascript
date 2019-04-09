@@ -1,0 +1,29 @@
+/* .success, .error {
+   color: white;
+   padding: 5px;
+   margin: 5px 0 15px 0;
+}
+
+.success {
+   background: green;
+}
+
+.error {
+   background: red;
+} */
+
+body {
+   background-color: #FAFAFA;
+}
+
+.icon-blue {
+   color: rgb(185, 119, 14);
+}
+
+.navbar-light {
+   background-color: #FFF !important;
+}
+
+.product-alert {
+   background-color: #f0f0f0;
+}
